@@ -2356,6 +2356,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maskPrefab: {fileID: 579040471466865505, guid: e8e5ea7e42fb25f4781c898bf6dc75ea, type: 3}
+  linkPrefab: {fileID: 7599690217075255381, guid: ef2bf4a121006d548bf4dd13275d015b, type: 3}
   spawnRate: 0.02
 --- !u!4 &1247722137
 Transform:
